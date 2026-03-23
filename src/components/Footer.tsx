@@ -80,7 +80,7 @@ export default function Footer() {
             className="text-center text-gray-400 text-sm"
           >
             <span className="block mb-2">
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Yvez Lawrence Cabudsan. All rights reserved.
             </span>
             <span className="text-gray-500 text-xs">
               Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion
